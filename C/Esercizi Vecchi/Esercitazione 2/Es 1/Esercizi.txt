@@ -1,0 +1,15 @@
+1:
+    Scrivere un programma che, dati un intero, 
+    stampi a video una per una le sue cifre decimali 
+    e il numero complessivo di cifre.
+2:  
+    Scrivere un programma che dato in input un intero 
+    calcoli e stampi tutti i suoi divisori.
+    Si ricorda che un intero d è un divisore di un 
+    intero n se esiste un intero k quale n = d * k
+3:
+    Si scriva un programma che dato in input un intero positivo
+    stampi a video il suo fattoriale n! Si ricorda che n! è definito
+    come -> se n=1 n! = 1 |-> n! = n*(n-1)!
+4:
+    Scrivere un programma che dati due interi a e b in input stampi a^b
